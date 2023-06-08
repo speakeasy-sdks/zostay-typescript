@@ -25,7 +25,7 @@ import { DeleteApiResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -52,7 +52,7 @@ import { GenerateOpenApiSpecResponse } from "Speakeasy-API/dist/sdk/models/opera
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -78,7 +78,7 @@ import { GeneratePostmanCollectionResponse } from "Speakeasy-API/dist/sdk/models
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -105,7 +105,7 @@ import { GetAllApiVersionsResponse } from "Speakeasy-API/dist/sdk/models/operati
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -148,7 +148,7 @@ import { GetApisResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -187,7 +187,7 @@ import { UpsertApiResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 

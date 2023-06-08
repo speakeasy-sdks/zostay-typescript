@@ -22,7 +22,7 @@ import { GetPluginsResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -45,7 +45,7 @@ import { RunPluginResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -82,7 +82,7 @@ import { UpsertPluginResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 

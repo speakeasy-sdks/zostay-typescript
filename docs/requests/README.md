@@ -23,7 +23,7 @@ import { GenerateRequestPostmanCollectionResponse } from "Speakeasy-API/dist/sdk
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -48,7 +48,7 @@ import { GetRequestFromEventLogResponse } from "Speakeasy-API/dist/sdk/models/op
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -74,7 +74,7 @@ import { QueryEventLogResponse } from "Speakeasy-API/dist/sdk/models/operations"
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 

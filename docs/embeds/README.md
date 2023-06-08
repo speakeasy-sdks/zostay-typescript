@@ -23,7 +23,7 @@ import { GetEmbedAccessTokenResponse } from "Speakeasy-API/dist/sdk/models/opera
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -61,7 +61,7 @@ import { GetValidEmbedAccessTokensResponse } from "Speakeasy-API/dist/sdk/models
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -84,7 +84,7 @@ import { RevokeEmbedAccessTokenResponse } from "Speakeasy-API/dist/sdk/models/op
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 

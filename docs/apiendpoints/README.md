@@ -27,7 +27,7 @@ import { DeleteApiEndpointResponse } from "Speakeasy-API/dist/sdk/models/operati
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -55,7 +55,7 @@ import { FindApiEndpointResponse } from "Speakeasy-API/dist/sdk/models/operation
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -83,7 +83,7 @@ import { GenerateOpenApiSpecForApiEndpointResponse } from "Speakeasy-API/dist/sd
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -110,7 +110,7 @@ import { GeneratePostmanCollectionForApiEndpointResponse } from "Speakeasy-API/d
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -137,7 +137,7 @@ import { GetAllApiEndpointsResponse } from "Speakeasy-API/dist/sdk/models/operat
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -162,7 +162,7 @@ import { GetAllForVersionApiEndpointsResponse } from "Speakeasy-API/dist/sdk/mod
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -188,7 +188,7 @@ import { GetApiEndpointResponse } from "Speakeasy-API/dist/sdk/models/operations
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -215,7 +215,7 @@ import { UpsertApiEndpointResponse } from "Speakeasy-API/dist/sdk/models/operati
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 

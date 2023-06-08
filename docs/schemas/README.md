@@ -27,7 +27,7 @@ import { DeleteSchemaResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -54,7 +54,7 @@ import { DownloadSchemaResponse } from "Speakeasy-API/dist/sdk/models/operations
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -80,7 +80,7 @@ import { DownloadSchemaRevisionResponse } from "Speakeasy-API/dist/sdk/models/op
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -108,7 +108,7 @@ import { GetSchemaResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -134,7 +134,7 @@ import { GetSchemaDiffResponse } from "Speakeasy-API/dist/sdk/models/operations"
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -163,7 +163,7 @@ import { GetSchemaRevisionResponse } from "Speakeasy-API/dist/sdk/models/operati
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -191,7 +191,7 @@ import { GetSchemasResponse } from "Speakeasy-API/dist/sdk/models/operations";
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
@@ -218,7 +218,7 @@ import { RegisterSchemaResponse } from "Speakeasy-API/dist/sdk/models/operations
 
 const sdk = new SpeakeasyAPI({
   security: {
-    apiKey: "YOUR_API_KEY_HERE",
+    apiKey: "",
   },
 });
 
